@@ -1,23 +1,55 @@
 ---
 layout: none
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-        <channel>
-                <title>{{ site.name | xml_escape }}</title>
-                <description>{{ site.description | xml_escape }}</description>
-                <link>{{ site.url }}</link>
-                <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  <channel>
 
-		{% for post in site.posts limit:10 %}
-			<item>
-			   <title>{{ post.title | xml_escape }}</title>
-			   <description>{{ post.content | xml_escape }}</description>
-			   <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-			   <link>{{ site.url }}/{{ post.url }}</link>
-			   <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
-			   </item>
-		{% endfor %}
-	</channel>
+    <title>justgotalk</title>
+    <description>Shane just go talk and learn</description>
+    <link>https://drizztzou.github.io/webpage</link>
+    <lastBuildDate>Sat, 17 Jun 2017 11:30:00 -0500</lastBuildDate>
+    <pubDate>Sat, 17 Jun 2017 11:30:00 -0500</pubDate>
+
+    <itunes:author>drizztzou</itunes:author>
+    <itunes:subtitle>TBDinterviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting </itunes:subtitle>
+    <itunes:summary>TBD show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting.  Each show we interview a different Podcaster to find out what Podcasts they are listening to, what their show is about, what they are using to create their Podcast and what advice they have for other Podcasters or those looking to become a Podcaster.  Plus we have news, notes and tech tips for Podcasting. </itunes:summary>
+
+    <itunes:owner>
+           <itunes:name>drizztzou</itunes:name>
+           <itunes:email>drizztzou@gmail.com</itunes:email>
+    </itunes:owner>
+
+<itunes:explicit>No</itunes:explicit>
+    
+<itunes:category text="Technology">
+     <itunes:category text="Podcasting"/>
+</itunes:category>
+
+<item>
+<title>XueZaofeng BeiDa Economy 01 </title>
+<link>http://orp0oxrzd.bkt.clouddn.com/xzf0201-1.mp3</link>
+<guid>http://orp0oxrzd.bkt.clouddn.com/xzf0201-1.mp3</guid>
+<description> Welcome to the show it is March 25th and this is our 138th 
+   show.  Today will be an interview with Bruce Murray from the Zedcast 
+   podcast. Please visit this podcast at http://www.zedcast.com/ </description>
+<enclosure url="http://orp0oxrzd.bkt.clouddn.com/xzf0201-1.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sat, 17 Jun 2017 11:30:00 -0500</pubDate>
+
+<itunes:author>drizztzou</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Welcome to the show it is March 25th and this is our 138th 
+   show.  Today will be an interview with Bruce Murray from the Zedcast 
+   podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:subtitle>
+<itunes:summary> Welcome to the show it is March 25th and this is our 
+   138th show.  Today will be an interview with Bruce Murray from the 
+   Zedcast podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:summary>
+
+</item>
+
+</channel>
+
 </rss>
