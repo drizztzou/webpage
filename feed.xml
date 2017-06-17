@@ -50,6 +50,20 @@ layout: none
 
 </item>
 
+<item>
+<title>XueZaofeng BeiDa Economy 02 </title>
+<link>https://drizztzou.github.io/webpage/2017/06/18/upload1.html</link>
+<guid>http://orp0oxrzd.bkt.clouddn.com/xuezaofeng-02.mp3</guid>
+<description> XueZaoFeng BeiDa Economy 02 </description>
+<enclosure url="http://orp0oxrzd.bkt.clouddn.com/xuezaofeng-02.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sun, 18 Jun 2017 06:30:00 -0500</pubDate>
+
+<itunes:author>drizztzou</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+</item>
+
 </channel>
 
 </rss>
