@@ -67,6 +67,23 @@ layout: none
 
 </item>
 
+<item>
+<title>JingYing RiKe 01 </title>
+<link>https://drizztzou.github.io/webpage/2017/06/18/upload2.html</link>
+<guid>http://orp0oxrzd.bkt.clouddn.com/xuezaofeng-02.mp3</guid>
+<description> JingYing RiKe 01 </description>
+<enclosure url="http://orp0oxrzd.bkt.clouddn.com/jingying-01.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sun, 17 Jun 2017 11:34:00 -0500</pubDate>
+
+<itunes:author>drizztzou</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle> JingYing RiKe 01 </itunes:subtitle>
+<itunes:summary> JingYing RiKe 01 </itunes:summary>
+
+</item>
+
 </channel>
 
 </rss>
