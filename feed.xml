@@ -84,6 +84,23 @@ layout: none
 
 </item>
 
+<item>
+<title>English Learning 01 </title>
+<link>https://drizztzou.github.io/webpage/2017/06/18/upload3.html</link>
+<guid>http://orp0oxrzd.bkt.clouddn.com/english-01.mp3</guid>
+<description> English Learning 01 </description>
+<enclosure url="http://orp0oxrzd.bkt.clouddn.com/english-01.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sun, 17 Jun 2017 11:36:00 -0500</pubDate>
+
+<itunes:author>drizztzou</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle> English Learning 01  </itunes:subtitle>
+<itunes:summary> English Learning 01  </itunes:summary>
+
+</item>
+
 </channel>
 
 </rss>
