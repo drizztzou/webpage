@@ -273,6 +273,23 @@ layout: none
 
 </item>
 
+<item>
+<title>AiDaJing 02 </title>
+<link>https://drizztzou.github.io/webpage/2017/08/22/upload14.html</link>
+<guid>http://orp0oxrzd.bkt.clouddn.com/aidajing-02.mp3</guid>
+<description> AiDaJing 02 </description>
+<enclosure url="http://orp0oxrzd.bkt.clouddn.com/aidajing-02.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 22 Aug 2017 11:42:00 -0500</pubDate>
+
+<itunes:author>drizztzou</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle> AiDaJing 02  </itunes:subtitle>
+<itunes:summary> AiDaJing 02 </itunes:summary>
+
+</item>
+
 </channel>
 
 </rss>
