@@ -342,6 +342,24 @@ layout: none
 
 </item>
 
+<item>
+<title>AiDaJing 03 </title>
+<link>https://drizztzou.github.io/webpage/2018/03/01/upload18.html</link>
+<guid>http://orp0oxrzd.bkt.clouddn.com/aidajing-03.mp3</guid>
+<description> AiDaJing 03 </description>
+<enclosure url="http://orp0oxrzd.bkt.clouddn.com/aidajing-03.mp3" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 01 Mar 2018 01:42:00 -0500</pubDate>
+
+<itunes:author>drizztzou</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle> AiDaJing 03  </itunes:subtitle>
+<itunes:summary> AiDaJing 03 </itunes:summary>
+
+</item>
+
+
 </channel>
 
 </rss>
